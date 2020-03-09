@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "//taraspetrenko04.github.io/route/static/css/main.c8a2af03.chunk.css",
+    "main.js": "//taraspetrenko04.github.io/route/static/js/main.629acdc7.chunk.js",
+    "main.js.map": "//taraspetrenko04.github.io/route/static/js/main.629acdc7.chunk.js.map",
+    "runtime-main.js": "//taraspetrenko04.github.io/route/static/js/runtime-main.60f49c25.js",
+    "runtime-main.js.map": "//taraspetrenko04.github.io/route/static/js/runtime-main.60f49c25.js.map",
+    "static/js/2.49d272a2.chunk.js": "//taraspetrenko04.github.io/route/static/js/2.49d272a2.chunk.js",
+    "static/js/2.49d272a2.chunk.js.map": "//taraspetrenko04.github.io/route/static/js/2.49d272a2.chunk.js.map",
+    "index.html": "//taraspetrenko04.github.io/route/index.html",
+    "precache-manifest.b5155cb42d9d97620635c9376dddb9d8.js": "//taraspetrenko04.github.io/route/precache-manifest.b5155cb42d9d97620635c9376dddb9d8.js",
+    "service-worker.js": "//taraspetrenko04.github.io/route/service-worker.js",
+    "static/css/main.c8a2af03.chunk.css.map": "//taraspetrenko04.github.io/route/static/css/main.c8a2af03.chunk.css.map",
+    "static/js/2.49d272a2.chunk.js.LICENSE.txt": "//taraspetrenko04.github.io/route/static/js/2.49d272a2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60f49c25.js",
+    "static/js/2.49d272a2.chunk.js",
+    "static/css/main.c8a2af03.chunk.css",
+    "static/js/main.629acdc7.chunk.js"
+  ]
+}
