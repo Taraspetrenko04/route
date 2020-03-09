@@ -1,5 +1,5 @@
 {
-  "homepage": "https://https://taraspetrenko04.github.io/route/",
+  "homepage": "http://Taraspetrenko04.github.io/route/",
   "name": "route",
   "version": "0.1.0",
   "private": true,
@@ -37,6 +37,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^2.2.0",
     "nodemon": "^2.0.2"
   }
 }
